@@ -121,7 +121,7 @@ html
 
 <p>This is a <strong>bold</strong> word in a sentence.</p>
 
-#Differences between Tags, Elements and Attributes:
+<h3>Differences between Tags, Elements and Attributes:</h1>
 1. HTML Tags
 
     Definition: Tags are the building blocks of HTML, used to create elements. They are enclosed within angle brackets (< >).
