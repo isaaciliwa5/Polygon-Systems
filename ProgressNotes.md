@@ -120,3 +120,7 @@ HTML elements can be nested inside other elements. Make sure to properly close e
 html
 
 <p>This is a <strong>bold</strong> word in a sentence.</p>
+
+Now we start Polygon Systems' dummy website with fun.
+Enjoy!
+
